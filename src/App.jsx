@@ -216,17 +216,17 @@ function App() {
                         <div className="project-card hover-lift colorful-card">
                             <div className="project-top-line"></div>
                             <h3>AWS Certification</h3>
-                            <p>Add your AWS certification name here.</p>
+                            <p>AWS Solution Architecture</p>
                         </div>
                         <div className="project-card hover-lift colorful-card">
                             <div className="project-top-line"></div>
                             <h3>Docker / Kubernetes</h3>
-                            <p>Add your container or orchestration certification here.</p>
+                            <p>WIP</p>
                         </div>
                         <div className="project-card hover-lift colorful-card">
                             <div className="project-top-line"></div>
                             <h3>Linux / DevOps</h3>
-                            <p>Add your Linux, Jenkins or DevOps certification here.</p>
+                            <p></p>
                         </div>
                     </div>
                 </section>
